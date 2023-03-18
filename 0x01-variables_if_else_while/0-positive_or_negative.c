@@ -3,7 +3,8 @@
 #include <stdio.h>
 /**
  * this is main function
- * and it has multiple lines
+ * * Description: 'the program's description' * 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
