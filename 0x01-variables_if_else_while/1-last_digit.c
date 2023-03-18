@@ -4,8 +4,8 @@
 
 /**
  * main - this is main program
- * Description: 'print the last digit of the number stored in the variable n 
- * and compare it to 5 and 0'
+ * Description: 'print the last digit of the number stored in the variable 
+ *  and compare it to 5 and 0'
  * Return: Always 0
  */
 int main(void)
