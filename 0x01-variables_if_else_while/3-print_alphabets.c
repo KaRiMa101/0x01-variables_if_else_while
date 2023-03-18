@@ -10,7 +10,7 @@
  */
 int main(void)
 {
-char letters[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMOPQRSTUVWXYZ";
+char letters[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 int l;
 for (l = 0; l < 52 ; l++)
 {
