@@ -1,8 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*this is main function
-and it has multiple lines*/
+/**
+ * this is main function
+ * and it has multiple lines
+ */
 int main(void)
 {
 int n;
