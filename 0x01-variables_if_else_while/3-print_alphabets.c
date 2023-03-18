@@ -14,7 +14,7 @@ char letters[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 int l;
 for (l = 0; l < 52 ; l++)
 {
-    putchar(letters[l]);
+putchar(letters[l]);
 }
 putchar('\n');
 return (0);
