@@ -12,7 +12,7 @@ int main(void)
 {
 char letters[16] = "0123456789abcdef";
 int l;
-for (l = 0; l <16 ; l++)
+for (l = 0; l < 16 ; l++)
 {
 putchar(letters[l]);
 }
