@@ -16,7 +16,9 @@ for (l = '0'; l <= '9' ; l++)
 putchar(l);
 k=l;
 if (k <= '8')
-putchar(" ,");
+{putchar(",");
+putchar(' ');
+}
 }
 putchar('\n');
 return (0);
