@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * this is main function
- * * Description: 'the program's description' * 
- * Return: Always 0 (Success)
+ *this is main function
+ **Description:'the program's description'
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
