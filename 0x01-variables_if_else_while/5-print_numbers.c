@@ -15,6 +15,6 @@ for (l = 0; l < 10 ; l++)
 {
 printf("%d", l);
 }
-printf('\n');
+printf("\n");
 return (0);
 }
