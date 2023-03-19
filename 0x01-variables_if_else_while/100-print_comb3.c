@@ -14,7 +14,8 @@ int l, k;
 for (l = '0'; l <= '8' ; l++)
 {
 for (k = '1'; k <= '9' ; k++)
-{if (l < k)
+{
+if (l < k)
 {
 putchar(l);
 putchar(k);
@@ -26,6 +27,6 @@ putchar(' ');
 }
 }
 }
-
+putchar('\n');
 return (0);
 }
