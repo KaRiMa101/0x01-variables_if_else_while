@@ -22,7 +22,7 @@ if (k < l  && l < m)
 putchar(k);
 putchar(l);
 putchar(m);
-if (k != '7'|| l != '8' || m != '9')
+if (k != '7' || l != '8' || m != '9')
 {
 putchar(',');
 putchar(' ');
