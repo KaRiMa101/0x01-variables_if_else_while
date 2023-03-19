@@ -14,14 +14,18 @@ int l, k;
 for (l = '0'; l <= '8' ; l++)
 {
 for (k = '1'; k <= '9' ; k++)
-{if (l<k)
+{if (l < k)
 {
 putchar(l);
 putchar(k);
+if (l != '8' || k != '9')
+{
 putchar(',');
 putchar(' ');
 }
-}}
+}
+}
+}
 
 return (0);
 }
